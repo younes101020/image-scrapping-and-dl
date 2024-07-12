@@ -1,4 +1,5 @@
 <a id="readme-top"></a>
+
 ## Image Scrapping And DL
 
 Useful repository for artificial intelligence images datasets
@@ -23,6 +24,11 @@ yarn start --url=https://www.camif.fr/recherche?q=lit --select=".myloop-images-s
 
 that's it
 
+## Acknowledgments
+
+- Node.js - JavaScript runtime environment
+- puppeteer - Headless Chrome Node.js API
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -37,8 +43,3 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Acknowledgments
-
-- Node.js - JavaScript runtime environment
-- puppeteer - Headless Chrome Node.js API
