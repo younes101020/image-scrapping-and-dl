@@ -7,7 +7,15 @@
     "axios": "^1.7.2",
     "commander": "^12.1.0",
     "puppeteer": "^22.13.0",
-    "rimraf": "^6.0.1"
+    "rimraf": "^6.0.1",
+    "@opentelemetry/exporter-prometheus": "^0.53.0",
+    "@opentelemetry/host-metrics": "^0.35.3",
+    "@opentelemetry/instrumentation-http": "^0.53.0",
+    "@opentelemetry/instrumentation-runtime-node": "^0.7.0",
+    "@opentelemetry/instrumentation": "^0.53.0",
+    "@opentelemetry/resources": "^1.26.0",
+    "@opentelemetry/sdk-metrics": "^1.26.0",
+    "@opentelemetry/semantic-conventions": "^1.27.0"
   },
   "scripts": {
     "start:dev": "npx nodemon",
